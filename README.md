@@ -22,8 +22,9 @@
 The name of the files denotes the stellar mass.
 
 ## Galaxy SEDs
-The name of the files are related to the parameters of the IMFs 
-according to the article.
+The names of the files are related to the parameters of the IMFs, thus m9M50a2 means a population with lower stellar mass
+limit of 9 solar masses, upper limit 50 solar masses and Salpeter slope, -2.35. 
+
 
 
 
