@@ -10,13 +10,15 @@
 	reported in Kubát 2012 (2012ApJS..203...20K). 
 
 	Every file contains two columns:
-		First column - frequency [Hz]
+		First column - frequency     [Hz]
 									The SEDs have been rebinned into a common frequency 
 									array of 19 000 points linearly spaced from 5e12 to 
 									5e16 Hz. The values have been computed using linear 
 									interpolation.
-		Second column - flux H_\nu [erg s^{-1} cm^{-2} Hz^{-1} ( {M_\odot}^{-1}
-									for the case of galaxy SEDs)]
+		Second column - flux         H_\nu [erg s^{-1} cm^{-2} Hz^{-1} sr^{-1}( {M_\odot}^{-1}
+									for the case of galaxy SEDs)].
+									Note that this is the Eddington flux, so one needs to 
+									multiply by 4\pi to obtain the flux F_\nu.
 
 ## Stellar SEDs
 The names of the files denote the stellar mass.
