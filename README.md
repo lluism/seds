@@ -27,6 +27,8 @@ The names of the files denote the stellar mass.
 The names of the files denote the parameters of the IMFs thus, e.g, IMF_m9M50a2 means a population with lower stellar mass
 limit of 9 solar masses, upper limit 50 solar masses and Salpeter slope, -2.35. 
 
+If you found the SEDs useful for your work, please cite us, so other people will know where to find and use them.
+
 
 
 
