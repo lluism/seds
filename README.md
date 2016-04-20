@@ -1,17 +1,17 @@
 # SEDs
-		This repository contains the SEDs of Population III stars and 
-	Pop III galaxies used in our paper. See the article for detailed 
-	descriptions of the parameters used, calculation procedures and 
-	references. 
+		This repository contains the SEDs for Population III stars and 
+	Pop III galaxies used in our paper (Mas-Ribas et al. 2016). See the 
+	article for detailed descriptions of the parameters used, calculation 
+	procedures and references. 
 
 		The SEDs are computed for zero-metallicity stars (H_He only) in 
-	the ZAMS. We use the stellar parameters from Schaerer 2002 
+	the ZAMS phase. We use the stellar parameters from Schaerer 2002 
 	(2002A&A...382...28S) and Marigo 2001 ( 2001A&A...371..152M) as 
 	reported in Kubát 2012 (2012ApJS..203...20K). 
 
 	Every file contains two columns:
 		First column - frequency     [Hz]
-									The SEDs have been rebinned into a common frequency 
+									The SEDs have been computed into a common frequency 
 									array of 19 000 points linearly spaced from 5e12 to 
 									5e16 Hz. The values have been computed using linear 
 									interpolation.
@@ -24,10 +24,13 @@
 The names of the files denote the stellar mass.
 
 ## Galaxy SEDs
-The names of the files denote the parameters of the IMFs thus, e.g, IMF_m9M50a2 means a population with lower stellar mass
-limit of 9 solar masses, upper limit 50 solar masses and Salpeter slope, -2.35. 
+The names of the files denote the parameters of the IMFs; e.g, IMF_m9M50a2 means a population with lower stellar mass
+limit of 9 solar masses, upper limit 50 solar masses and Salpeter slope, -2.35. Note that the top-heavy IMF has a 
+slope of "0" in linear space, not logarithmic.
 
-If you found the SEDs useful for your work, please cite us, so other people will know where to find and use them.
+If you found the SEDs useful for your work, please cite us.
+
+If you find any mistake in the SEDs, please let us know and we will try to fix it as soon as possible.
 
 
 
