@@ -30,7 +30,7 @@ slope of "0" in linear space, not logarithmic.
 
 If you found the SEDs useful for your work, please cite us.
 
-If you find any mistake in the SEDs, please let us know and we will try to fix it as soon as possible.
+
 
 
 
