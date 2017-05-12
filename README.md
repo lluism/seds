@@ -1,7 +1,7 @@
 # SEDs
 		This repository contains the SEDs for Population III stars and 
-	Pop III galaxies used in our paper (Mas-Ribas et al. 2016). See the 
-	article for detailed descriptions of the parameters used, calculation 
+	Pop III galaxies used in our paper (http://adsabs.harvard.edu/abs/2016ApJ...833...65M). 
+	See the article for detailed descriptions of the parameters used, calculation 
 	procedures and references. 
 
 		The SEDs are computed for zero-metallicity stars (H_He only) in 
