@@ -1,4 +1,4 @@
-# SEDs
+## SEDs
 		This repository contains the SEDs for Population III stars and 
 	Pop III galaxies used in our paper (http://adsabs.harvard.edu/abs/2016ApJ...833...65M). 
 	See the article for detailed descriptions of the parameters used, calculation 
