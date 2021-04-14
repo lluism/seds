@@ -15,7 +15,6 @@ Every file contains two columns:
 									array of 19 000 points linearly spaced from 5e12 to 
 									5e16 Hz. The values have been computed using linear 
 									interpolation.
-					- <img src="https://latex.codecogs.com/gif.latex?H_\nu [erg s^{-1} cm^{-2} Hz^{-1} sr^{-1}( {M_\odot}^{-1} " /> 
 		Second column - flux         H_\nu [erg s^{-1} cm^{-2} Hz^{-1} sr^{-1}( {M_\odot}^{-1}
 									for the case of galaxy SEDs)].
 									Note that this is the Eddington flux, so one needs to 
