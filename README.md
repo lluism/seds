@@ -25,10 +25,13 @@ The names of the files denote the stellar mass.
 
 ## Galaxy SEDs
 The names of the files denote the parameters of the IMFs; e.g, IMF_m9M50a2 means a population with lower stellar mass
-limit of 9 solar masses, upper limit 50 solar masses and Salpeter slope, -2.35. Note that the top-heavy IMF has a 
+limit of 9 solar masses, upper limit 50 solar masses and Salpeter slope, -2.35. Note that, e.g., a top-heavy IMF has a 
 slope of "0" in linear space, not logarithmic.
 
-If you found the SEDs useful for your work, please cite us.
+## seds.ipynb
+This is a python notebook to read and plot the galaxy/stellar SEDs in this repository. 
+
+It also shows how the galaxy SEDs are calculated, which can be adapted to compute SEDs with different mass ranges and IMF power index
 
 
 
