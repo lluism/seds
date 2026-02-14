@@ -31,7 +31,7 @@ slope of "0" in linear space, not logarithmic.
 ## seds.ipynb
 This is a python notebook to read and plot the galaxy/stellar SEDs in this repository. 
 
-It also shows how the galaxy SEDs are calculated, which can be adapted to compute SEDs with different mass ranges and IMF power index
+It also shows how the galaxy SEDs are calculated for various IMFs, which can be adapted to compute SEDs with different mass ranges and IMF power index.
 
 
 
